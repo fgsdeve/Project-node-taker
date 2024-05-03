@@ -39,6 +39,29 @@ Contributions are welcome! If you have suggestions to improve the application, p
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Resources
+
+This section offers links to documentation, tutorials, and other resources that helped me to understand the technologies and methods used in this project:
+
+- [Express Documentation](https://expressjs.com/en/starter/installing.html) - Learn about the framework used to build the server.
+- [Node.js Documentation](https://nodejs.org/en/docs/) - Comprehensive resources on Node.js.
+- [Understanding UUIDs](https://www.uuidgenerator.net/) - Information on what UUIDs are and how they are used in software development.
+
+## Acknowledgments
+
+- **[Node.js](https://nodejs.org/)** - Thanks to Node.js for the runtime environment.
+- **[Express.js](https://expressjs.com/)** - Special thanks to the creators and maintainers of Express.
+- **[UUID npm package](https://www.npmjs.com/package/uuid)** - Thanks to the maintainers of this package for providing easy generation of     
+    UUIDs. 
+
+## Further Reading
+
+To deepen your understanding and help you with your projects, here are some additional resources:
+
+- [Learn JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - MDN Web Docs on JavaScript.
+- [REST API Design](https://restfulapi.net/) - Best practices in API design.
+- [Understanding Middleware](https://expressjs.com/en/guide/using-middleware.html) - Guide to using Middleware in Express applications.
+
 ## Contact
  - Fgsdeve@gmail.com
 
