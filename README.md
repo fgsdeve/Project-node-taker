@@ -52,7 +52,8 @@ This section offers links to documentation, tutorials, and other resources that 
 - **[Node.js](https://nodejs.org/)** - Thanks to Node.js for the runtime environment.
 - **[Express.js](https://expressjs.com/)** - Special thanks to the creators and maintainers of Express.
 - **[UUID npm package](https://www.npmjs.com/package/uuid)** - Thanks to the maintainers of this package for providing easy generation of     
-    UUIDs. 
+    UUIDs.
+- **[Render](https://dashboard.render.com/)** - thanks to render to allowed me to use and deploy my application.
 
 ## Further Reading
 
@@ -66,3 +67,4 @@ To deepen your understanding and help you with your projects, here are some addi
  - Fgsdeve@gmail.com
 
 - Project Link: https://github.com/fgsdeve/Note-Taker.git
+- Render Note-Taker site: https://project-note-taker.onrender.com
